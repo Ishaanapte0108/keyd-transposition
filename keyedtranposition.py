@@ -29,6 +29,3 @@ class keyedtransposition:
         ttx = '' .join(self.transformedText)
         print(self.df)
         print("Value: ", ttx)
-
-
-k = keyedtransposition('ofru', '203', 0)
